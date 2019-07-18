@@ -33,7 +33,7 @@ Gulp will watch for changes in your sass folder(scss), compile and output the re
 
 ## Developers
 This template is free to use. 
-NB: **Please don't remove copyright credit**
+NB: **Please don't remove copyright credit on pages and in project files**
 
 ## Me
 Want to say hi? Will be happy to hear from you
