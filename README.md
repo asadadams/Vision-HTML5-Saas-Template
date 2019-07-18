@@ -32,8 +32,8 @@ Gulp will watch for changes in your sass folder(scss), compile and output the re
 
 
 ## Developers
-If you are a developer feel free to contribute to the project by providing bug fixes, new ideas and suggestions. 
-**Was bored again, so tried learning a new thing and started researching on WebSockets. **
+This template is free to use. 
+NB: **Please don't remove copyright credit**
 
 ## Me
 Want to say hi? Will be happy to hear from you
