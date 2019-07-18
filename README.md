@@ -4,7 +4,7 @@ This is a Boostrap Sass template using HTML5, JQuery and Sass. Gulp task is use 
 ## Getting Started 
 
 ### Prerequisites
-** First, you must download and install [node.js](https://nodejs.org/en/) The node package manager (npm) will be installed at the same time. After that use npm command to install gulp globally. 
+First, you must download and install [node.js](https://nodejs.org/en/) The node package manager (npm) will be installed at the same time. After that use npm command to install gulp globally. 
 
 ```
    npm install -g gulp 
