@@ -1,0 +1,23 @@
+.navigation_bar{
+	@include add-background-color($primary-color);
+	height:$navbar-height;
+	padding-top:10px;
+	
+	a{
+		color:$link-color;
+	}
+	
+	a:hover{
+		color:white;
+	}
+	
+	.social_accounts_links li{
+		display:inline-block;
+		
+	}
+}	
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: $primary-color;
+}

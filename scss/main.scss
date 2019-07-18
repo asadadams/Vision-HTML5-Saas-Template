@@ -1,0 +1,24 @@
+/*
+	Vision Bootstrap Sass Template
+	Author: Adams Asad
+	Version: 0.0.1
+	Company: Softvision Company
+*/
+
+/*Base styling -  Variables, Sections, Mixins*/
+
+@import 'base/_reset.scss';
+@import 'base/_variables.scss';
+@import 'base/_mixins.scss';
+@import 'base/_sections.scss';
+
+
+/*Components -  Buttons, Panel*/
+@import 'components/_buttons.scss';
+@import 'components/_panel.scss';
+
+/*Layouts - Header,Footer,Nav */
+
+@import 'layouts/_header.scss';
+@import 'layouts/_footer.scss';
+@import 'layouts/_nav.scss';

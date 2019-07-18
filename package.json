@@ -1,0 +1,11 @@
+{
+  "name": "Vision-HTML5-Saas-Template",
+  "version": "0.0.1",
+  "description": "This is a Boostrap Sass template using HTML5, JQuery and Sass. Gulp task is use to compile the css.",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
+}

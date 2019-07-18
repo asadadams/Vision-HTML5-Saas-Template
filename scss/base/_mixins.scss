@@ -1,0 +1,25 @@
+@mixin add-background-color($color){
+	background:$color;
+	@if $color == $light-color {
+		color:#eeeeee;
+	}@else if $color == $grey-color{
+		color:black;
+	}@else {
+		color:white;
+	}
+}
+
+
+@mixin add-border($position,$size,$color){
+	@if $position == 'all'{
+		border:$size solid  $color;
+	}@else if $position == 'bottom'{
+		border-bottom:$size solid  $color;
+	}@else if $position == 'top'{
+		border-top:$size solid  $color;
+	}@else if $position == 'right'{
+		border-right:$size solid  $color;
+	}@else if $position == 'left'{
+		border-left:$size solid  $color;
+	}
+}

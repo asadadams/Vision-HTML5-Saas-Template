@@ -1,0 +1,42 @@
+.footer{
+	@include add-border(top,6px,$success-color);
+	
+	.top-footer{
+		@include add-background-color($primary-color);
+		padding:40px;
+	}
+	
+	.bottom-footer{
+		@include add-background-color($secondary-color);
+		text-align:center;
+		padding-top:20px;
+		padding-bottom:15px;
+		font-size:13px;
+	}
+	
+	a{
+		color:$primary-light-color;
+		text-decoration:none;
+	}
+	
+	a:hover{
+		color:white;
+	}
+	
+	ul{
+		padding-left:0px;
+		list-style-type:none;
+	}
+	
+	li{
+		padding-bottom:7px;
+	}
+	
+	.footer-social-icons{
+		padding-right:7px;
+	}
+	
+	.footer-heart-icon{
+		color:#ff3e3a;
+	}
+}

@@ -1,0 +1,12 @@
+# Image Credits
+
+case.jpeg - https://www.pexels.com/photo/group-hand-fist-bump-1068523/ (courtesy of Unsplash)
+team/1.jpg, team/2.jpg, team/3.jpg - https://www.svison.com/ (courtesy of Unsplash)
+
+# Libraries, Plugins 
+
+Font Awesome - https://fontawesome.com/v4.7.0/
+JQuery 		 - https://jquery.com/
+Bootstrap 	 - https://getbootstrap.com/docs/3.3/
+
+NB:Please don't remove copyright notices. Download, fork , make changes and have fun doing it :)  

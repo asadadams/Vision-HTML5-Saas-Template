@@ -1,0 +1,13 @@
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: $primary-color;
+    border-color: $primary-color;
+}
+
+.panel-primary {
+    border-color: $primary-color;
+}
+
+.panel-primary>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: $primary-color;
+}
