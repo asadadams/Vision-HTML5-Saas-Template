@@ -4,7 +4,7 @@ This is a Boostrap Sass template using HTML5, JQuery and Sass. Gulp task is use 
 ## Getting Started 
 
 ### Prerequisites
-**First, you must download and install [node.js](https://nodejs.org/en/) The node package manager (npm) will be installed at the same time. After that use npm command to install gulp globally. 
+** First, you must download and install [node.js](https://nodejs.org/en/) The node package manager (npm) will be installed at the same time. After that use npm command to install gulp globally. 
 
 ```
    npm install -g gulp 
@@ -15,7 +15,6 @@ Lastly, clone this repository , go to your porject folder and run `npm install` 
 ### How it works
 Gulp will watch for changes in your sass folder(scss), compile and output the result in the css folder as theme.css .
 
-
 #### Main packages
 
 * [gulp](http://gulpjs.com/)
@@ -25,17 +24,10 @@ Gulp will watch for changes in your sass folder(scss), compile and output the re
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 * [gulp-rename](https://www.npmjs.com/package/gulp-rename)
 * [gulp-plumber](https://www.npmjs.com/package/gulp-plumber)
-* [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
-
-#### Miscellaneous packages
-
-* [del](https://www.npmjs.com/package/del)
-
----
 
 ## License
 
-[CC103](./LICENSE).
+[GNU General Public License v3.0](./LICENSE).
 
 
 
@@ -43,7 +35,7 @@ Gulp will watch for changes in your sass folder(scss), compile and output the re
 If you are a developer feel free to contribute to the project by providing bug fixes, new ideas and suggestions. 
 **Was bored again, so tried learning a new thing and started researching on WebSockets. **
 
-##Me
+## Me
 Want to say hi? Will be happy to hear from you
 * [Twitter](http:///www.twitter.com/asadadams)
 * [Facebbok](http://www.facebook.com/asad.adams)
